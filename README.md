@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=foliolo)](https://github.com/anuraghazra/github-readme-stats)
+
+💬 Ask me about Android 😄
+
 <!--
 **foliolo/foliolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
