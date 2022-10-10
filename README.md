@@ -2,7 +2,7 @@
 
 | Stats | Top Languages |
 | ------|:---------:|
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=foliolo)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foliolo&langs_count=3&hide=CSS,PHP)](https://github.com/anuraghazra/github-readme-stats) |
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=foliolo)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foliolo&langs_count=3&hide=CSS)](https://github.com/anuraghazra/github-readme-stats) |
 
 
 💬 Ask me about Android 😄
