@@ -30,6 +30,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
   </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://gpuopen.com/wp-content/uploads/2021/10/U_Logo_White_RGB.png" alt="unity" width="92" height="33" />
+  </a>
 </p>
 <p>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
